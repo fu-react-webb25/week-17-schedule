@@ -49,7 +49,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 ### Övningar 
 
-
+* [Zustand Bootcamp](https://github.com/fu-react-webb25/week-17-exercise-zustand-bootcamp/tree/main)
 
 
 
