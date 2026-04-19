@@ -21,9 +21,20 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 ### Inspelade föreläsningar
 
+**LIVE!**
+
+* [Zustand intro, 20 april]()
+
+**Förinspelat** (Bonusfilmer som vi ej kommer gå igenom i klassrummet)
+
+* [01 - React 19, nyheter del 1](https://vimeo.com/1055196365/5e933909f1?share=copy)
+* [02 - React 19, nyheter del 2](https://vimeo.com/1055196446/e857f82782?share=copy)
+* [03 - Arkitektur](https://vimeo.com/1053103450/6cc255e541?share=copy)
+
 
 ### Lektionsrepon
 
+* [20 april](https://github.com/fu-react-webb25/week-17-lecture-20-april)
 
 ### Filmer
 
