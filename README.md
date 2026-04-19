@@ -23,7 +23,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 **LIVE!**
 
-* [Zustand intro, 20 april]()
+* [Global Statehantering, 20 april]()
 
 **Förinspelat** (Bonusfilmer som vi ej kommer gå igenom i klassrummet)
 
