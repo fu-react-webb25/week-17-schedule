@@ -23,7 +23,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 **LIVE!**
 
-* [Global Statehantering, 20 april]()
+* [Global Statehantering, 20 april](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBD9TCyXjspT4LZBAwLOsy4AYTBbkKmhthHSuWDSku8vOc?e=2oBrys)
 
 **Förinspelat** (Bonusfilmer som vi ej kommer gå igenom i klassrummet)
 
