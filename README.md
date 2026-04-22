@@ -25,6 +25,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 * [Global Statehantering, 20 april](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBD9TCyXjspT4LZBAwLOsy4AYTBbkKmhthHSuWDSku8vOc?e=2oBrys)
 * [Bookstore, 20 april](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDHUUj2K6E0RbfXML88OTU0Ae1rbeqKqAR6BfbY1TCJprQ?e=ILOxUb)
+* [Package-arkitektur](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQC-8caE15iKQbv7G0rFkRWFAfP02LPwYqm4zqAN5hGDAnk?e=eIe3JV)
 
 **Förinspelat** (Bonusfilmer som vi ej kommer gå igenom i klassrummet)
 
