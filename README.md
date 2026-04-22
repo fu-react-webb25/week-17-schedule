@@ -36,6 +36,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 ### Lektionsrepon
 
 * [20 april](https://github.com/fu-react-webb25/week-17-lecture-20-april)
+* [22 april](https://github.com/fu-react-webb25/week-17-lecture-22-april)
 
 ### Filmer
 
